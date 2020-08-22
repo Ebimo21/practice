@@ -1,3 +1,3 @@
 // js code goes here!!
 
-alert("Hi");
+// alert("Hi");
