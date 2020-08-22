@@ -7,3 +7,4 @@ function func(){
 }
 
 alert('there');
+// thrr
