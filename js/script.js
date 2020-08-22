@@ -1,3 +1,7 @@
 // js code goes here!!
 
-alert("Hi");
+// alert("Hi");
+
+function func(){
+    alert("hi");
+}
