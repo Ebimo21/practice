@@ -3,5 +3,5 @@
 // alert("Hi");
 
 function func(){
-    
+    alert("hi");
 }
